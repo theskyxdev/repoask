@@ -13,6 +13,9 @@ RepoAsk turns a GitHub repository into an explorable code intelligence workspace
 </div>
 
 ---
+<img width="1897" height="957" alt="image" src="https://github.com/user-attachments/assets/1fe22c00-9e73-43bb-a903-5d19a9276d64" />
+
+<img width="1675" height="1022" alt="image" src="https://github.com/user-attachments/assets/b67f2975-10fb-4bad-bddd-af44160900a7" />
 
 ## Why RepoAsk
 
@@ -36,6 +39,9 @@ Explore a repository through one workspace instead of piecing together separate 
 4. Follow citations back to the files and line ranges behind an answer.
 
 On first backend startup, RepoAsk initializes its local database and seeds a small demo repository if the repository list is empty. This gives a fresh local installation something to explore immediately.
+
+<img width="1636" height="1010" alt="image" src="https://github.com/user-attachments/assets/56ede1f5-99f5-4183-92b2-8ab2a3872192" />
+
 
 ## Tech Stack
 
