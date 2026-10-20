@@ -1,0 +1,32 @@
+# Local environments and secrets
+.venv/
+venv/
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local backend data, databases, and cloned repositories
+backend/data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Frontend dependencies and generated output
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/coverage/
+frontend/.vercel/
+*.tsbuildinfo
+
+# Logs and OS/editor files
+*.log
+.DS_Store
+Thumbs.db
